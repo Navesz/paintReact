@@ -8,5 +8,4 @@ Para usar este aplicativo, basta clicar em qualquer lugar da tela. Um círculo s
 # Considerações
 Este aplicativo foi criado como um exemplo de uso do gerenciador de estado useState do React. Ele não tem nenhuma outra finalidade prática.
 
-# Licença
-Este aplicativo está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
+
